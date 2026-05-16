@@ -1,4 +1,3 @@
-##폴더 구조
 ```text
 📁 LiveWallpaper/
  ├── 🚀 wallpaper.py
