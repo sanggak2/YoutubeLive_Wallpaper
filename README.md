@@ -1,6 +1,6 @@
 ---
+## 폴더구조
 
-# 폴더구조
 ```
 📁 LiveWallpaper/
  ├── 🚀 wallpaper.py
