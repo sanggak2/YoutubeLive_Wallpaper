@@ -1,14 +1,11 @@
 ---
 ## 폴더구조
 
-```
 📁 LiveWallpaper/
  ├── 🚀 wallpaper.py
  ├── 📝 link.txt
  └── 📁 mpv/
       └── 🎬 mpv.exe
-```
-
 ---
 
 ## 개발자 가이드
