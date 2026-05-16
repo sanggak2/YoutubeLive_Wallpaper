@@ -1,10 +1,14 @@
-```text
+---
+
+# 폴더구조
+```
 📁 LiveWallpaper/
  ├── 🚀 wallpaper.py
  ├── 📝 link.txt
  └── 📁 mpv/
       └── 🎬 mpv.exe
 ```
+
 ---
 
 ## 개발자 가이드
@@ -44,3 +48,6 @@ pythonw .\wallpaper.py
 ## ⚖️ 라이선스 (License)
 
 * 동영상 재생의 핵심 코어인 `mpv`는 **GNU GPLv2 (or later)** 라이선스를 따르는 독립된 프로젝트입니다. 본 프로그램은 `mpv` 코어를 수정하지 않고 외부 IPC 인터페이스로만 격리하여 통신하므로, 본 소스 코드의 전면 공개 의무(GPL 전염성)가 발생하지 않는 단순 집적(Mere Aggregation) 구조입니다.
+* 
+
+---
