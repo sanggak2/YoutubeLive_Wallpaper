@@ -2,10 +2,10 @@
 
 ```text
 📁 LiveWallpaper/
-├── 🚀 wallpaper.py
-├── 📝 link.txt
-└── 📁 mpv/
-└── 🎬 mpv.exe
+ ├── 🚀 wallpaper.py
+ ├── 📝 link.txt
+ └── 📁 mpv/
+      └── 🎬 mpv.exe
 ```
 ---
 
